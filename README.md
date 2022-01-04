@@ -1,6 +1,4 @@
-<img align="left" alt="cono" width="26px" src="https://www.seekpng.com/png/detail/263-2639656_traffic-cone-red-parking-cone.png"/>
-## Be careful! Work in progress...
-<img align="left" alt="cono" width="26px" src="https://www.seekpng.com/png/detail/263-2639656_traffic-cone-red-parking-cone.png"/>
+<img align="left" alt="cono" width="26px" src="https://www.seekpng.com/png/detail/263-2639656_traffic-cone-red-parking-cone.png"/><h1>Be careful! Work in progress...<h1><img align="left" alt="cono" width="26px" src="https://www.seekpng.com/png/detail/263-2639656_traffic-cone-red-parking-cone.png"/>
 
 ### Hi there 👋
 
