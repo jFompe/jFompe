@@ -1,6 +1,6 @@
-<img align="left" alt="cono" width="26px" src="https://icon-icons.com/es/icono/vlc-cono/17829"/>
-Be careful! Work in progress...
-<img align="left" alt="cono" width="26px" src="https://icon-icons.com/es/icono/vlc-cono/17829"/>
+<img align="left" alt="cono" width="26px" src="https://www.seekpng.com/png/detail/263-2639656_traffic-cone-red-parking-cone.png"/>
+## Be careful! Work in progress...
+<img align="left" alt="cono" width="26px" src="https://www.seekpng.com/png/detail/263-2639656_traffic-cone-red-parking-cone.png"/>
 
 ### Hi there 👋
 
