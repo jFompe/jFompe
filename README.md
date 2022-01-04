@@ -1,3 +1,7 @@
+<img align="left" alt="cono" width="26px" src="https://icon-icons.com/es/icono/vlc-cono/17829"/>
+Be careful! Work in progress...
+<img align="left" alt="cono" width="26px" src="https://icon-icons.com/es/icono/vlc-cono/17829"/>
+
 ### Hi there 👋
 
 <!--
